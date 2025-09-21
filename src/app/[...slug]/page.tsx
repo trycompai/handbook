@@ -47,7 +47,7 @@ export default async function DynamicPage({ params }: PageProps) {
   }
 
   const breadcrumbs = [
-    { title: 'Comp AI - Handbook', href: '/' },
+    { title: 'Handbook', href: '/' },
     { title: page.metadata.category || '' },
     { title: page.metadata.title }
   ]

@@ -4,7 +4,7 @@ import { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: "Comp AI - Handbook",
-  description: "Company AI Handbook",
+  description: "The Comp AI Employee Handbook",
 }
 
 export default function Welcome() {

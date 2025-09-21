@@ -3,6 +3,7 @@ title: Comp AI
 category: Careers
 slug: careers/overview
 order: 1
+category_order: 2
 ---
 ## Working with us
 

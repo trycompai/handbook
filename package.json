@@ -5,10 +5,10 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "prepare": "husky",
-    "build": "bun scripts/build-content.js && next build",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "node scripts/build-content.js && opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
     "preview": "node scripts/build-content.js && opennextjs-cloudflare build && opennextjs-cloudflare preview",
     "cf-typegen": "wrangler types --env-interface CloudflareEnv ./cloudflare-env.d.ts"
   },

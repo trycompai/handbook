@@ -2,6 +2,6 @@
 # Regenerate content data if markdown files changed
 if git diff --cached --name-only | grep -q "content/.*\.md"; then
   echo "📝 Markdown files changed, regenerating content data..."
-  node scripts/build-content.mjs
+  node scripts/build-content.js
   git add src/lib/content-data.json
 fi

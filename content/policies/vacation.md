@@ -40,7 +40,7 @@ In compliance with New York City's Earned Safe and Sick Time Act, all employees 
 
 ## General Policies
 
-- **Part-time Employees**: Part-time employees accrue PTO and sick leave on a pro-rated basis. Contact Lewis or Claudio for specific details
+- **Part-time Employees**: Part-time employees accrue PTO and sick leave on a pro-rated basis. Contact Lewis for specific details.
 - **PTO Payout**: Unused PTO may be paid out upon termination, subject to applicable law
 - **Sick Leave Payout**: Unused sick leave is not paid out upon termination
 - **Holiday Schedule**: Company holidays are separate from PTO and sick leave entitlements
